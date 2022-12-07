@@ -1,2 +1,2 @@
-# Kadir-Y-ld-r-m
+# Kadir-Yildirim
 Bilgisayar programcılığı 2.Sınıf öğrencisi
